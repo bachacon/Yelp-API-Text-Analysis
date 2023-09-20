@@ -8,7 +8,7 @@ import string
 import pandas as pd
 
 
-api_key = "hy8_mc7NcYkgqLW2pfIeJMN3BO51gZCsNvBKbJfMfo3qWlVFet1y5L1C6eH1Gv4lOaYwsdPHiCx5hTShxqMBwKA4WT-XK4KbUcaZ3PhPTN84QNcwGXBURWLIwb82ZHYx"
+api_key = # <Insert your API Key here> #
 yelp_api = YelpAPI(api_key)
 
 
